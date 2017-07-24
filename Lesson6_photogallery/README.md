@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 24th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Tiffany Boyer)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment showed us how to build an application of a photo gallery/gric/slideshow that allows users to navgate through the multiple photos.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://tiffanyboyer.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The Browser Object Model is a convention that allows us to specify the objects, properties and methods of a browser and their relationship.)
+2. (The Document object Model is what represents the contents of a document within a browser.)
+3. (The ability to modify the contents of a page and its elemetns is one of the most powerful uses of JavaScript.)
